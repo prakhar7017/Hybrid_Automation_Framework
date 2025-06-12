@@ -1,27 +1,11 @@
-2025-06-08 15:58:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-06-13 01:58:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Prakhar Maheshwari\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
 
-2025-06-08 15:58:40 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
-2025-06-08 15:58:40 [main] INFO  testBase.BaseClass - Validating excepted messege
-2025-06-08 15:58:40 [main] INFO  testBase.BaseClass - after click on continue->Cannot invoke "org.openqa.selenium.support.ui.WebDriverWait.until(java.util.function.Function)" because "this.wait" is null
-2025-06-08 16:02:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-06-13 01:59:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Prakhar Maheshwari\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
 
-2025-06-08 16:02:48 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
-2025-06-08 16:02:50 [main] INFO  testBase.BaseClass - Validating excepted messege
-2025-06-08 16:36:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-06-13 02:01:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
 
-2025-06-08 16:36:27 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
-2025-06-08 16:36:28 [main] INFO  testBase.BaseClass - Validating excepted messege
-2025-06-08 16:36:31 [main] ERROR testBase.BaseClass - Test Failed
-2025-06-08 16:57:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
-
-2025-06-08 16:57:28 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
-2025-06-08 16:57:30 [main] INFO  testBase.BaseClass - Validating excepted messege
-2025-06-08 17:03:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
-
-2025-06-08 17:03:45 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
-2025-06-08 17:03:46 [main] INFO  testBase.BaseClass - Validating excepted messege
+2025-06-13 02:01:55 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******
+2025-06-13 02:01:57 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
