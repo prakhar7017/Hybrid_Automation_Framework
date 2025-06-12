@@ -9,3 +9,23 @@
 
 2025-06-13 02:01:55 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******
 2025-06-13 02:01:57 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-13 03:10:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
+
+2025-06-13 03:10:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
+
+2025-06-13 03:15:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
+
+2025-06-13 03:18:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
+
+2025-06-13 03:18:05 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
+2025-06-13 03:18:07 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-13 03:18:07 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
+2025-06-13 03:18:18 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-13 03:18:18 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
+2025-06-13 03:18:28 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-13 03:18:28 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
+2025-06-13 03:18:39 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
