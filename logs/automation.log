@@ -1,31 +1,30 @@
-2025-06-13 01:58:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+2025-06-14 22:26:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\grouping.xml
 
-2025-06-13 01:59:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+2025-06-14 22:26:39 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
+2025-06-14 22:26:43 [main] INFO  testBase.BaseClass - Validating excepted messege
+2025-06-14 22:26:46 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******
+2025-06-14 22:26:49 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-14 22:27:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\grouping.xml
 
-2025-06-13 02:01:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
+2025-06-14 22:27:53 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******
+2025-06-14 22:27:55 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-14 23:39:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\grouping.xml
 
-2025-06-13 02:01:55 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******
-2025-06-13 02:01:57 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
-2025-06-13 03:10:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
+2025-06-14 23:39:18 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******
+2025-06-14 23:39:21 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-14 23:40:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\grouping.xml
 
-2025-06-13 03:10:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
+2025-06-14 23:40:19 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
+2025-06-14 23:40:22 [main] INFO  testBase.BaseClass - Validating excepted messege
+2025-06-14 23:40:25 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******
+2025-06-14 23:40:27 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-14 23:42:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\grouping.xml
 
-2025-06-13 03:15:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
-
-2025-06-13 03:18:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Prakhar Maheshwari\IdeaProjects\AutomationFramework\master.xml
-
-2025-06-13 03:18:05 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
-2025-06-13 03:18:07 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
-2025-06-13 03:18:07 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
-2025-06-13 03:18:18 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
-2025-06-13 03:18:18 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
-2025-06-13 03:18:28 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
-2025-06-13 03:18:28 [main] INFO  testBase.BaseClass - ****** Starting TC003_LoginDDT ******
-2025-06-13 03:18:39 [main] INFO  testBase.BaseClass - ****** Finished TC002_LoginTest ******
+2025-06-14 23:42:08 [main] INFO  testBase.BaseClass - ********** Starting TC1_Registration **********
+2025-06-14 23:42:12 [main] INFO  testBase.BaseClass - Validating excepted messege
+2025-06-14 23:42:14 [main] INFO  testBase.BaseClass - ****** Starting TC002_LoginTest ******

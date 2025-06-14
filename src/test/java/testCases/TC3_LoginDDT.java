@@ -10,7 +10,7 @@ import utilities.DataProviders;
 
 public class TC3_LoginDDT extends BaseClass {
 
-    @Test(dataProvider = "LoginData",dataProviderClass = DataProviders.class) // dataProvider from different class thats why we have to mention like this.
+    @Test(dataProvider = "LoginData",dataProviderClass = DataProviders.class,groups = "datadriven") // dataProvider from different class thats why we have to mention like this.
     public void verify_loginDDT(String email,String pass,String exp){
         LOGGER.info("****** Starting TC003_LoginDDT ******");
         try{
